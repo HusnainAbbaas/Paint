@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\husnain\downloads\bgi2010\bgi\main.cpp(221): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\husnain\downloads\bgi2010\bgi\main.cpp(224): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\husnain\downloads\bgi2010\bgi\main.cpp(228): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\husnain\downloads\bgi2010\bgi\main.cpp(230): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\husnain\downloads\bgi2010\bgi\main.cpp(263): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  bgi.vcxproj -> C:\Users\Husnain\Downloads\BGI2010\bgi\Debug\bgi.exe
+  bgi.vcxproj -> C:\Users\Husnain\Downloads\BGI2010\bgi\Debug\bgi.pdb (Full PDB)
